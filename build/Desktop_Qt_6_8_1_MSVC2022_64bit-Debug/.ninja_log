@@ -1,0 +1,18 @@
+# ninja log v6
+6	349	7597958321472287	build.ninja	dde81320cedac8a3
+14	57	7599294114560668	C:/Users/ED/Desktop/Qt_39_Homework_2/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Qt_39_Homework_2_autogen/mocs_compilation.cpp	5d7d2d5fda1a691
+14	57	7599294114560668	Qt_39_Homework_2_autogen/timestamp	5d7d2d5fda1a691
+14	57	7599294114560668	Qt_39_Homework_2_autogen/mocs_compilation.cpp	5d7d2d5fda1a691
+14	57	7599294114560668	C:/Users/ED/Desktop/Qt_39_Homework_2/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Qt_39_Homework_2_autogen/timestamp	5d7d2d5fda1a691
+58	1438	7599294114996120	CMakeFiles/Qt_39_Homework_2.dir/mainwindow.cpp.obj	fe476b34cd9a7b32
+293	2181	7598505870492194	CMakeFiles/Qt_39_Homework_2.dir/main.cpp.obj	823b6cbb02deb2db
+290	2177	7598505870463290	CMakeFiles/Qt_39_Homework_2.dir/Qt_39_Homework_2_autogen/mocs_compilation.cpp.obj	fdac3d3b91f20eca
+1438	1528	7599294128797224	Qt_39_Homework_2.exe	4212522b354124e1
+6	23	7597958423879070	CMakeFiles/clean.additional	7e4d0b3d773d3bf
+23	33	7597958424058491	clean	ca20ad35778315c3
+16	58	7599294404968881	Qt_39_Homework_2_autogen/timestamp	5d7d2d5fda1a691
+16	58	7599294404968881	Qt_39_Homework_2_autogen/mocs_compilation.cpp	5d7d2d5fda1a691
+16	58	7599294404968881	C:/Users/ED/Desktop/Qt_39_Homework_2/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Qt_39_Homework_2_autogen/timestamp	5d7d2d5fda1a691
+16	58	7599294404968881	C:/Users/ED/Desktop/Qt_39_Homework_2/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Qt_39_Homework_2_autogen/mocs_compilation.cpp	5d7d2d5fda1a691
+59	1445	7599294405387477	CMakeFiles/Qt_39_Homework_2.dir/mainwindow.cpp.obj	fe476b34cd9a7b32
+1445	1537	7599294419251101	Qt_39_Homework_2.exe	4212522b354124e1
