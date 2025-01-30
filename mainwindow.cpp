@@ -33,5 +33,5 @@ void MainWindow::setOkLabel() {
 
 void MainWindow::setNonOkLabel() {
     ui->label->setText("Fail");
-    ui->label->setStyleSheet("QLabel {color: red12;}");
+    ui->label->setStyleSheet("QLabel {color: red;}");
 }
